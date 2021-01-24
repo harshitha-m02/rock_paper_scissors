@@ -24,7 +24,7 @@ const emoji = {
 
 // Load the model first
 function preload() {
-  classifier = ml5.imageClassifier('https://teachablemachine.withgoogle.com/models/4mRKV-8Lu/model.json');
+  classifier = ml5.imageClassifier('https://teachablemachine.withgoogle.com/models/fW89CHw36/model.json');
 }
 
 function setup() {
