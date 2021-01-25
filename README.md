@@ -21,3 +21,10 @@ Refernce for merging the game andd teachable machine : https://thecodingtrain.co
 
 https://youtu.be/GtUwtaACIpE
 
+
+# Contributors
+
+K.Sumanjali - 19pa1a0478
+M.Harshitha - 19pa1a0492
+
+
